@@ -1,4 +1,4 @@
-﻿# EchoType: a new text entry method for small smart device
-EchoType is a system which can use echo of sound to input text for small device.
+﻿# EchoType: a novel text-entry method for small smart devices
+EchoType is a system which can use echo sound of finger moving to input text for small devices.
 User can use a finger to write letters or words in the air without touching screen.
-Devoloped by: SZU-SSMC,Tencent company.
+Devoloped by: SSMC of Shenzhen University and Tencent.
